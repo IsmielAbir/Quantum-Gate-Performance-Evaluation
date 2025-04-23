@@ -4,7 +4,7 @@
 **Comprehensive Quantum Gate Performance Analysis: A Comparative Study of Noise and No-Noise Effects**  
 
 ### 📂 Dataset Description:
-This repository contains benchmarking results for 13 quantum gates (e.g., H, CNOT, Toffoli) tested under noisy and noise-free conditions, based on 1000 simulation runs per gate configuration.
+This repository contains benchmarking results for 13 quantum gates (e.g., H, CNOT, Toffoli) tested under noisy and noise-free conditions, based on 1000 simulation runs per gate configuration. Total 26000 rows and 13 columns.
 
 📊 Features include:
 - Gate Type
